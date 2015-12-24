@@ -1,0 +1,93 @@
+
+
+#topper, #footer{
+    text-align: center;
+    background-color:#41D0F0;
+    margin:10px;
+    padding:20px 40px 20px 40px;
+    border-style:solid;
+    border-width:5px;
+    border-color:#0D9FBF;
+    }
+
+#links{
+    font-size: 14px;
+    background-color: lightseagreen;
+    padding:15px
+    }
+
+#body{
+    background-image: url("img/storm.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin:20px;
+    border-style: double;
+    border-width: 5px;
+    }
+
+#window{
+    margin:20px;
+    padding:10px;
+    background-color: white;
+    opacity: 0.5;
+    }
+
+#stormtext{
+    margin:10px;
+    padding:5px 10px;
+    background-color:#B0B0B0;
+    }
+
+#creep{
+    margin:10px;
+    padding:75px 50px;
+    text-align:center;
+    background-color: forestgreen;
+}
+
+#tableaux{
+    text-align:center;
+    display:none;
+
+    }
+
+#ta{
+    text-align:center;
+    margin:10px;
+    }
+
+#ta:hover{
+    color:red;
+    }
+
+#ta:hover #tableaux{
+    color:black;
+    display:block;
+    text-align:center;
+    }
+
+a.clickme{
+    color: antiquewhite;
+    padding:0 12px;
+    text-transform: uppercase;
+    }
+
+a.clickme:hover{
+    background-color:#5A6FCC;
+    }
+
+a.beeb:link, a.beeb:visited{
+    color: #3d4481;
+    margin:10px;
+    }
+
+a.beeb:hover{
+    font-size: 2em;
+    }
+
+img{
+    background-color:black;
+    margin:18px;
+    padding:20px;
+    }
+
